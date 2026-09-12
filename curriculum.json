@@ -1,0 +1,69 @@
+{
+  "curriculum": {
+    "title": "The Mental Curriculum",
+    "tagline": "Give your mind worthy material.",
+    "stages": [
+      {
+        "id": "foundation",
+        "name": "Foundation",
+        "description": "God, kingdom, stewardship, and the foundations of a faithful life.",
+        "books": [
+          {
+            "id": "debt-free-living",
+            "title": "Debt-Free Living",
+            "author": "",
+            "status": "completed",
+            "core": true,
+            "why": "A foundation in stewardship, debt, responsibility, and financial freedom."
+          },
+          {
+            "id": "kingdom-citizenship",
+            "title": "Kingdom Citizenship",
+            "author": "",
+            "status": "completed",
+            "core": true,
+            "why": "A foundation for understanding identity and life through the reality of God's Kingdom."
+          },
+          {
+            "id": "the-pursuit-of-god",
+            "title": "The Pursuit of God",
+            "author": "A.W. Tozer",
+            "status": "completed",
+            "core": true,
+            "why": "A deeper orientation toward God Himself rather than merely self-improvement."
+          }
+        ]
+      },
+      {
+        "id": "wisdom",
+        "name": "Wisdom",
+        "description": "Learning to see reality rightly and live wisely.",
+        "books": []
+      },
+      {
+        "id": "discernment",
+        "name": "Discernment",
+        "description": "Learning to distinguish truth, persuasion, noise, and illusion.",
+        "books": []
+      },
+      {
+        "id": "attention",
+        "name": "Attention",
+        "description": "Understanding what shapes the mind and learning to steward attention.",
+        "books": []
+      },
+      {
+        "id": "vocation",
+        "name": "Vocation",
+        "description": "Work, calling, responsibility, stewardship, and contribution.",
+        "books": []
+      },
+      {
+        "id": "creation",
+        "name": "Creation",
+        "description": "Moving from consuming ideas toward making, writing, and creating.",
+        "books": []
+      }
+    ]
+  }
+}
